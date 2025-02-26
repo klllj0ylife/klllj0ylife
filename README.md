@@ -5,10 +5,10 @@ Hardened, broken, rebuilt, and fortified again.
 - Cybersecurity | Penetration Testing | Networking | Blockchain Security
 
 🖥 **Programming & Development**
-- Rust | Python| XML | Assembly | Bash | JVE | JavaScript | Kotlin | Java | Javalin
+- Rust | Python| XML | Assembly | Bash | JavaScript | Kotlin | Java | Javalin
 
 ⚙ **Frameworks & Platforms**
-- WebAssembly (WASM) | Yew | Dioxus
+- WebAssembly (WASM) | Yew | Dioxus | JVM 
 
 🛠 **DevOps & Infrastructure**
 - GitHub Actions | Cloudflare Workers | Zero Trust Architectures | lambda
