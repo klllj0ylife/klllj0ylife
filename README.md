@@ -15,7 +15,7 @@ Hardened, broken, rebuilt, and fortified again.
 - GitHub Actions | Cloudflare Workers | Zero Trust Architectures | lambda
 
 🔗 **Blockchain & Decentralization**
-- Solana | Sui | Elrond | IPFS | Cosnmos
+- Solana | Sui | Elrond | IPFS | Cosmos
 - Projects: Custom WASM Smart Contracts | Security Audits for DeFi Protocols
 
 🛰 **Networking & Security**
