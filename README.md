@@ -1,6 +1,7 @@
-Hardened, broken, rebuilt, and fortified again.
+>Hardened, broken, rebuilt, and fortified again.
 
 ```json
+Hardened, broken, rebuilt, and fortified again.
 💀 **Core Expertise**
 - Cybersecurity | Penetration Testing | Networking | Blockchain Security
 
@@ -15,10 +16,15 @@ Hardened, broken, rebuilt, and fortified again.
 
 🔗 **Blockchain & Decentralization**
 - Solana | Sui | Elrond | IPFS | Cosnmos
+- Projects: Custom WASM Smart Contracts | Security Audits for DeFi Protocols
 
 🛰 **Networking & Security**
 - NS | Firewall Hardening | SOC Operations
 
 🔩 **Hardware & Embedded Systems**
 - FPGA | Microcontrollers | Reverse Engineering
+
+🕶 **Mindset**
+- "The strongest security is the one they never see coming."
+
 ```
