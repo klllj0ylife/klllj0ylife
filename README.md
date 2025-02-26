@@ -1,5 +1,24 @@
+Hardened, broken, rebuilt, and fortified again.
 
-<!---
-klllj0ylife/klllj0ylife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```json
+💀 **Core Expertise**
+- Cybersecurity | Penetration Testing | Networking | Blockchain Security
+
+🖥 **Programming & Development**
+- Rust | Python| XML | Assembly | Bash | JVE | JavaScript | Kotlin | Java | Javalin
+
+⚙ **Frameworks & Platforms**
+- WebAssembly (WASM) | Yew | Dioxus
+
+🛠 **DevOps & Infrastructure**
+- GitHub Actions | Cloudflare Workers | Zero Trust Architectures | lambda
+
+🔗 **Blockchain & Decentralization**
+- Solana | Sui | Elrond | IPFS | Cosnmos
+
+🛰 **Networking & Security**
+- NS | Firewall Hardening | SOC Operations
+
+🔩 **Hardware & Embedded Systems**
+- FPGA | Microcontrollers | Reverse Engineering
+```
