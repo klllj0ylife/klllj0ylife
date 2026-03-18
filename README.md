@@ -6,6 +6,7 @@ Hardened, broken, rebuilt, and fortified; repeat as necessary.
 💀 **Core Expertise**
 - Cybersecurity Engineering | Penetration Testing | Network Architecture | Blockchain Security
 - Technical Operations Leadership (DevOps | SecOps | InfraOps)
+- Military Systems & Field Operations (91W Combat Medic | 31F Network Systems)
 
 🖥 **Programming & Development**
 - Rust | Python | Assembly | Bash | JavaScript | Kotlin | Java
@@ -26,6 +27,7 @@ Hardened, broken, rebuilt, and fortified; repeat as necessary.
 
 🛰 **Networking & Security Operations**
 - Network Segmentation & Name Server (NS) Design
+- Tactical Communications | Secure Network Deployment
 - Firewall Hardening | Threat Detection | SOC Operations
 
 🔩 **Hardware & Embedded Systems**
@@ -47,6 +49,7 @@ Hardened, broken, rebuilt, and fortified; repeat as necessary.
 - High-focus problem solving; thrives in complexity, rejects redundancy
 
 🕶 **Operational Mindset**
+- Operates effectively under pressure; prioritization and execution in high-stakes environments
 - Walk into every room with a plan for every outcome; control comes from preparation, not reaction.
 - Anticipate every angle, every objection, every failure point.
 - Operate at the intersection of systems, security, and execution.
@@ -56,6 +59,7 @@ Hardened, broken, rebuilt, and fortified; repeat as necessary.
 
 ⚡ **Edge**
 - Neurodivergent processing; accelerated pattern recognition and unconventional solution paths
+- Cross-domain operator; medical, network, and cyber systems integration mindset
 - Operates effectively in ambiguity, complexity, and adversarial environments
 
 ```
