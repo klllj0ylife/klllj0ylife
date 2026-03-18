@@ -19,7 +19,7 @@ Hardened, broken, rebuilt, and fortified; repeat as necessary.
 
 🔗 **Blockchain & Decentralized Systems**
 - Solana | Sui | MultiversX (Elrond) | Cosmos | IPFS
-- Custom WASM Smart Contracts | DeFi Security Auditing | Token Architecture | Dynamic Executible Programmable Contracts
+- Custom WASM Smart Contracts | DeFi Security Auditing | Token Architecture | Dynamic Programmatically Executable Contract
 
 🛰 **Networking & Security Operations**
 - Network Segmentation & Name Server (NS) Design
