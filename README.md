@@ -5,6 +5,7 @@ Hardened, broken, rebuilt, and fortified; repeat as necessary.
 
 💀 **Core Expertise**
 - Cybersecurity Engineering | Penetration Testing | Network Architecture | Blockchain Security
+- Technical Operations Leadership (DevOps | SecOps | InfraOps)
 
 🖥 **Programming & Development**
 - Rust | Python | Assembly | Bash | JavaScript | Kotlin | Java
@@ -13,13 +14,15 @@ Hardened, broken, rebuilt, and fortified; repeat as necessary.
 ⚙ **Frameworks & Platforms**
 - WebAssembly (WASM) | Yew | Dioxus | JVM Ecosystem
 
-🛠 **DevOps & Infrastructure**
+🛠 **DevOps, SecOps & Infrastructure**
 - GitHub Actions | Cloudflare Workers | AWS Lambda
 - Zero Trust Architecture Design | Secure CI/CD Pipelines
+- Infrastructure Orchestration | System Hardening | Incident Response
 
 🔗 **Blockchain & Decentralized Systems**
 - Solana | Sui | MultiversX (Elrond) | Cosmos | IPFS
-- Custom WASM Smart Contracts | DeFi Security Auditing | Token Architecture | Dynamic Programmatically Executable Contract
+- Custom WASM Smart Contracts | DeFi Security Auditing | Token Architecture
+- Dynamic Programmatically Executable Contracts
 
 🛰 **Networking & Security Operations**
 - Network Segmentation & Name Server (NS) Design
@@ -46,6 +49,7 @@ Hardened, broken, rebuilt, and fortified; repeat as necessary.
 🕶 **Operational Mindset**
 - Walk into every room with a plan for every outcome; control comes from preparation, not reaction.
 - Anticipate every angle, every objection, every failure point.
+- Operate at the intersection of systems, security, and execution.
 - Precision over noise; depth over breadth.
 - Security is not a feature; it is an adversarial discipline.
 - The strongest systems are the ones attackers never fully understand.
