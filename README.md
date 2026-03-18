@@ -6,7 +6,7 @@ Hardened, broken, rebuilt, and fortified again.
 - Cybersecurity | Penetration Testing | Networking | Blockchain Security
 
 🖥 **Programming & Development**
-- Rust | Python| XML | Assembly | Bash | JavaScript | Kotlin | Java | Javalin
+- | Rust | Python| Assembly | Bash | JavaScript | Kotlin | Java | Javalin | VanillaJS | MOVE | 
 
 ⚙ **Frameworks & Platforms**
 - WebAssembly (WASM) | Yew | Dioxus | JVM 
