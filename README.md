@@ -29,10 +29,29 @@ Hardened, broken, rebuilt, and fortified; repeat as necessary.
 - FPGA Development | Microcontrollers | Low-Level System Analysis
 - Reverse Engineering (Firmware & Binary)
 
+🧠 **Cognitive Profile**
+- MBTI: INFJ-T
+- Enneagram: Type 5 (balanced wings)
+- DISC: High C / Secondary D (Analytical, precise, decisive under pressure)
+- Big Five:
+  - Openness: Very High
+  - Conscientiousness: High
+  - Extraversion: Low
+  - Agreeableness: Selective
+  - Neuroticism: Controlled / situational
+
+- Systems thinker; pattern recognition, abstraction, long-range modeling
+- High-focus problem solving; thrives in complexity, rejects redundancy
+
 🕶 **Operational Mindset**
 - Walk into every room with a plan for every outcome; control comes from preparation, not reaction.
 - Anticipate every angle, every objection, every failure point.
+- Precision over noise; depth over breadth.
 - Security is not a feature; it is an adversarial discipline.
 - The strongest systems are the ones attackers never fully understand.
+
+⚡ **Edge**
+- Neurodivergent processing; accelerated pattern recognition and unconventional solution paths
+- Operates effectively in ambiguity, complexity, and adversarial environments
 
 ```
