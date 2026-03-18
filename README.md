@@ -1,11 +1,4 @@
 >Hardened, broken, rebuilt, and fortified again.
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinjaAssPirate&layout=compact&bg_color=0a0a0a&title_color=c0c0c0&text_color=b0aeb3&icon_color=a01cf0&border_radius=10" alt="Pirate"/>
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klllj0ylife&layout=compact&bg_color=0a0a0a&title_color=c0c0c0&text_color=b0aeb3&icon_color=a01cf0&border_radius=10" alt="Isabella" />
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitBaroness&layout=compact&bg_color=0a0a0a&title_color=c0c0c0&text_color=b0aeb3&icon_color=a01cf0&border_radius=10" alt="Baroness" />
-</div>
 
 ```json
 Hardened, broken, rebuilt, and fortified; repeat as necessary.
@@ -70,3 +63,10 @@ Hardened, broken, rebuilt, and fortified; repeat as necessary.
 - Operates effectively in ambiguity, complexity, and adversarial environments
 
 ```
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinjaAssPirate&layout=compact&bg_color=0a0a0a&title_color=c0c0c0&text_color=b0aeb3&icon_color=a01cf0&border_radius=10" alt="Pirate"/>
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klllj0ylife&layout=compact&bg_color=0a0a0a&title_color=c0c0c0&text_color=b0aeb3&icon_color=a01cf0&border_radius=10" alt="Isabella" />
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KitBaroness&layout=compact&bg_color=0a0a0a&title_color=c0c0c0&text_color=b0aeb3&icon_color=a01cf0&border_radius=10" alt="Baroness" />
+</div>
